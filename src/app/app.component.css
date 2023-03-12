@@ -1,0 +1,9 @@
+#operaciones{
+    background-color: rgb(149, 51, 152);
+    font-weight: bold;
+    width: 50px;
+}
+
+#operaciones:hover{
+    background-color: rgb(93, 24, 96);
+}
